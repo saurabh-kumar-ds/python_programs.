@@ -10,3 +10,5 @@ if b>a:
     a=a-b
 
 print(f"Maximum number is {a}")
+
+## add sub mul mod
