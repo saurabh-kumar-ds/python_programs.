@@ -12,3 +12,4 @@ if b>a:
 print(f"Maximum number is {a}")
 
 ## add sub mul mod
+## add sub mul div
