@@ -10,8 +10,4 @@ if b>a:
 
 print(f"difference is {a-b}")
 
-<<<<<<< HEAD
 ## 12345
-=======
-## experiment for  create conflict.
->>>>>>> feature2
