@@ -10,3 +10,5 @@ if b>a:
     a=a-b
 
 print(f"miniimum number is {b}")
+
+## what to think.
